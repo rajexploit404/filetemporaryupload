@@ -22,7 +22,9 @@ Like This: <br>
 ->   -H "filename: desired_name": Specifies the name of the file when uploaded to Filebin.<br>
 ->    https://filebin.net/: The URL endpoint where the file will be uploaded.<br>
 
-Once the command is executed, you will receive a response containing the URL to access your uploaded file. For example:
+Once the command is executed, you will receive a response containing the URL to access your uploaded fil, copy the id in the output terminal. For example:<br>
+![image](https://github.com/user-attachments/assets/87f0406c-4193-4afa-ad26-3327edad8f99)
+
 
 https://filebin.net/diwusoxjie5i6u2t
 
