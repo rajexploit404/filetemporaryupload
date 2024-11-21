@@ -13,7 +13,7 @@ This tutorial explains how to upload files temporarily to [Filebin](https://file
 
 <code> curl --data-binary "@/home/rajexploit404/test.txt" -H "filename: test.txt" https://filebin.net/</code>
 
-Like This: 
+Like This: <br>
 ![image](https://github.com/user-attachments/assets/2e576020-034d-4ed0-b186-c5a2b8741e5a)
 
 *Explanation of the command:
