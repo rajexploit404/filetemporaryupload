@@ -18,9 +18,9 @@ Like This: <br>
 
 *Explanation of the command:
 
-->    --data-binary "@/path/to/file": Sends the file in binary mode for proper handling.
-->   -H "filename: desired_name": Specifies the name of the file when uploaded to Filebin.
-->    https://filebin.net/: The URL endpoint where the file will be uploaded.
+->    --data-binary "@/path/to/file": Sends the file in binary mode for proper handling.<br>
+->   -H "filename: desired_name": Specifies the name of the file when uploaded to Filebin.<br>
+->    https://filebin.net/: The URL endpoint where the file will be uploaded.<br>
 
 Once the command is executed, you will receive a response containing the URL to access your uploaded file. For example:
 
