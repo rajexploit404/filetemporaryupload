@@ -18,7 +18,7 @@ Like This: <br>
 
 *Explanation of the command:
 
-->    --data-binary "@/path/to/file": Sends the file in binary mode for proper handling.<br>
+->    --data-binary "@/path/to/file": Where you saved the file in the path.<br>
 ->   -H "filename: desired_name": Specifies the name of the file when uploaded to Filebin.<br>
 ->    https://filebin.net/: The URL endpoint where the file will be uploaded.<br>
 
